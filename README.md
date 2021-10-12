@@ -1,22 +1,12 @@
 ## Hello!It's AokIvan,welcome to my page : )
 
-​                   *——Written by a Electronic information engineering student from China.*
-
-* ✈I'm just a beginner in (any kinds of) programming...
+* From ZheJiang,China/EE-Student/NEVER STOP LEARNING...
+* 🔧AltiumDesigner/VIVADO/VSCode/JetBrain's...
+* ⚙C++/Java/Python/Verilog...
 * 🗨If u have something to [tell me](https://github.com/AokIvan/Self-Introduction/issues)
-* 🎮Game I love: Minecraft
-* 🕸Want to know [more about me](https://aokivan.pixelcookie.cn/)
+* 🎮Game I love: [Minecraft](https://www.minecraft.net)
+* 🕸[Welcome to my Blog](https://aokivan.pixelcookie.cn/)
 
-#### Skills that I have mastered...
-
-* **Programing Language:** C、Java
-
-* **Software:** Adobe Photoshop、Adobe Premiere Pro、Altium Designer
-
-#### Skills that I am learning...
-
-* **Programing Language:** C++、NodeJS、Python3
-* **SoftWare:** AutoCAD、Blender、Davinci、Vivado
 
 ##### By the way, I want to say salute to those senior in my heart.
 
@@ -26,3 +16,4 @@
 
 * **[Cofess](https://github.com/cofess)** - I learnt this kind of Self-Instruction from him.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AokIvan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
