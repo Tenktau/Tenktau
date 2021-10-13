@@ -1,4 +1,4 @@
-## Hello!It's AokIvan,welcome to my page : )
+## It's AokIvan,welcome to my page : )
 
 * From ZheJiang,China/EE-Student/NEVER STOP LEARNING...
 * 🔧AltiumDesigner/VIVADO/VSCode/JetBrain's...
@@ -8,7 +8,7 @@
 * 🕸[Welcome to my Blog](https://aokivan.pixelcookie.cn/)
 
 
-##### By the way, I want to say salute to those senior in my heart.
+#### By the way, I want to say salute to those senior in my ❤.
 
 * **[peng-zhihui](https://github.com/peng-zhihui)** - I admire his tech-spirit, and i love his works.
 
