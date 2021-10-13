@@ -3,12 +3,12 @@
 * From ZheJiang,China/EE-Student/NEVER STOP LEARNING...
 * 🔧AltiumDesigner/VIVADO/VSCode/JetBrain's...
 * ⚙C++/Java/Python/Verilog...
-* 🗨If u have something to [tell me](https://github.com/AokIvan/Self-Introduction/issues)
+* 🗨[Wanna tell me something?](https://github.com/AokIvan/Self-Introduction/issues)
 * 🎮Game I love: [Minecraft](https://www.minecraft.net)
 * 🕸[Welcome to my Blog](https://aokivan.pixelcookie.cn/)
 
 
-#### By the way, I want to say salute to those senior in my ❤.
+#### By the way, I wanna say salute to those **BRILLIANT** Tech guy.
 
 * **[peng-zhihui](https://github.com/peng-zhihui)** - I admire his tech-spirit, and i love his works.
 
