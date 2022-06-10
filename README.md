@@ -5,7 +5,7 @@
 * ⚙C++/Java/Python/Verilog...
 * 🗨[Wanna tell me something?](https://github.com/AokIvan/Self-Introduction/issues)
 * 🎮Game I love: [Minecraft](https://www.minecraft.net)
-* 🕸[Welcome to my Blog](https://aokivan.pixelcookie.cn/)
+* 🕸[Welcome to my Blog](https://me.lwantaoo.xyz/)
 
 
 #### By the way, I wanna say salute to those **BRILLIANT** Tech guy.
