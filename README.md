@@ -5,7 +5,7 @@
 * ⚙ C++ / Java / Python / Verilog...
 * 🗨[Wanna tell me something?](https://github.com/LWanTao/LWanTao/issues)
 * 🎮Game I love: [Minecraft](https://www.minecraft.net)
-* 🕸[Welcome to my Blog](https://blog.vantao/)
+* 🕸[Welcome to my Blog](https://blog.vantao.cn/)
 
 
 #### By the way, I wanna say salute to those **BRILLIANT** Tech guy.
