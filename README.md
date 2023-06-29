@@ -1,19 +1,24 @@
-## It's LWanTao,welcome to my page : )
+## It's LWanTao, WELCOME to my page : )
 
-* From ZheJiang,China / EE-Student / NEVER STOP LEARNING...
-* 🔧 AltiumDesigner / VIVADO / VSCode / JetBrain's...
-* ⚙ C++ / Java / Python / Verilog...
-* 🗨[Wanna tell me something?](https://github.com/LWanTao/LWanTao/issues)
-* 🎮Game I love: [Minecraft](https://www.minecraft.net)
-* 🕸[Welcome to my Blog](https://blog.vantao.cn/)
+> Take it easy, my friend, time will tell...
 
+## About me
 
-#### By the way, I wanna say salute to those **BRILLIANT** Tech guy.
+- From ZheJiang, China
+- B.S. in Electronic Information Engineering
 
-* **[peng-zhihui](https://github.com/peng-zhihui)** - I admire his tech-spirit, and i love his works.
+## Several Portals
 
-* **[lh1me](https://github.com/lh1me)** - The man who create Hexo-Theme-Aomori*(My HexoBlog's theme)*
+- Contact Me
+  - Any topics about l10n -> `vantao@aosc.io`
+  - Other topics -> `dev@vantao.cn`
+- My Blog *(Simplified Chinese)* -> `https://blog.vantao.cn`
 
-* **[Cofess](https://github.com/cofess)** - I learnt this kind of Self-Instruction from him.
+## Ongoing Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LWanTao&layout=compact&hide=Makefile,CMake,Tcl,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+- Building an encyclopedic website for beginners in the field of electrical engineering -> [EE-Wiki](https://github.com/7idalForce/EE-Wiki)
+- Translating Components to Simplified Chinese for [Trinity Desktop Environment](https://trinitydesktop.org/)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LWanTao&layout=compact&hide=Makefile,CMake,Tcl,Batchfile,EJS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
