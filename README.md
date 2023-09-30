@@ -17,7 +17,8 @@
 ## Ongoing Projects
 
 - Building an encyclopedic website for beginners in the field of electrical engineering -> [EE-Wiki](https://github.com/7idalForce/EE-Wiki)
-- Translating Components to Simplified Chinese for [Trinity Desktop Environment](https://trinitydesktop.org/)
+- Maintaining a documentation site that provides general guidelines for FLOSS localizers (Simplified Chinese) -> [L10n4ZH-Cookbook](https://aosc-dev.github.io/l10n4zh-cookbook)
+- Translating Components to Simplified Chinese for [Trinity Desktop Environment](https://trinitydesktop.org)
 
 ---
 
