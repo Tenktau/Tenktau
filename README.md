@@ -11,7 +11,7 @@
 
 - Contact Me
   - Any topics about l10n -> `vantao@aosc.io`
-  - Other topics -> `dev@vantao.cn`
+  - Other topics -> `hi@vantao.cn`
 - My Blog *(Simplified Chinese)* -> `https://blog.vantao.cn`
 
 ## Ongoing Projects
