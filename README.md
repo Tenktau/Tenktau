@@ -5,7 +5,7 @@
 ## About me
 
 - From ZheJiang, China
-- B.S. in Electronic Information Engineering
+- B.E. in Electronic Information Engineering
 
 ## Several Portals
 
