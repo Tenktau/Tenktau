@@ -4,8 +4,9 @@
 
 ## About me
 
-- From ZheJiang, China
-- B.E. in Electronic Information Engineering
+- From ZheJiang, China.
+- B.E. in Electronic Information Engineering.
+- Studying for a master's degree in optoelectronics at the UCAS.
 
 ## Several Portals
 
