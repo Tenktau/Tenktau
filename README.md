@@ -1,18 +1,19 @@
 ## It's Tenktau, WELCOME to my page : )
 
-> Take it easy, my friend, time will tell...
+> To be a sailor of the world, bound for all ports!
 
 ## About me
 
 - From ZheJiang, China.
 - B.E. in Electronic Information Engineering.
 - Studying for a master's degree in optoelectronics at the UCAS.
+  - Research Interests: Photonic tensor core, Reconfigurable photonic devices, etc.
 
 ## Several Portals
 
 - Contact Me
   - Any topics about l10n -> `vantao@aosc.io`
-  - Other topics -> `hi@vantao.cn`
+  - Other topics -> `tenktau@foxmail.com`
 - My Blog *(Simplified Chinese)* -> `https://blog.vantao.cn`
 
 ## Ongoing Projects
@@ -24,4 +25,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenktau&layout=compact&hide=Makefile,CMake,Tcl,Batchfile,EJS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+*Updated on September 9, 2025.*
